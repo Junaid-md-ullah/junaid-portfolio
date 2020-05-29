@@ -1,0 +1,16 @@
+.eachicon:hover{
+    background-color: lightgray;
+    transition-duration: 0.4s;
+}
+.eachicon:hover a{
+    color:#7510F7;
+}
+.eachicon{
+    height: 35px;
+    width: 35px;
+    border:2px solid #C9B7FD;
+    border-radius: 50%;
+}
+.eachicon a{
+    color:white;
+}
